@@ -1,8 +1,15 @@
 .intro{
     width: 100%;
     height: 500px;
-    background-color: #9e9e9e;
+    background-color: #e7d8d8;
     border: black 2px solid;
+}
+.outcome{
+    width: 100%;
+    height: 100%;
+    background-color: #aebecc;
+    border: rgb(68, 63, 63) 2px solid;
+    border-radius: 20px;
 }
 @media(max-width: 767px){
     .intro{
