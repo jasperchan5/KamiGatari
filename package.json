@@ -7,8 +7,8 @@
   "author": "jasperchan5 <jscnn51011@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "cd frontend && npm start",
-    "build": "cd frontend && npm build",
+    "start": "cd frontend && npm run start",
+    "build": "cd frontend && npm run build",
     "deploy": "cd frontend && yarn deploy"
   }
 }
