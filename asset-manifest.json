@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ce6ec0a.css",
-    "main.js": "/static/js/main.9e9379bc.js",
+    "main.css": "/static/css/main.7e2c0690.css",
+    "main.js": "/static/js/main.d34a9c51.js",
     "static/media/elysium.png": "/static/media/elysium.7e94c71ad8a615cfc9ba.png",
     "static/media/tarturus.jpg": "/static/media/tarturus.31f70e5fdb590cd634ad.jpg",
     "static/media/greece.jpg": "/static/media/greece.a8d2f7600c10f38f5476.jpg",
     "static/media/myself.jpg": "/static/media/myself.38df99ee3bb2562c66d1.jpg",
     "index.html": "/index.html",
-    "main.1ce6ec0a.css.map": "/static/css/main.1ce6ec0a.css.map",
-    "main.9e9379bc.js.map": "/static/js/main.9e9379bc.js.map"
+    "main.7e2c0690.css.map": "/static/css/main.7e2c0690.css.map",
+    "main.d34a9c51.js.map": "/static/js/main.d34a9c51.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ce6ec0a.css",
-    "static/js/main.9e9379bc.js"
+    "static/css/main.7e2c0690.css",
+    "static/js/main.d34a9c51.js"
   ]
 }
